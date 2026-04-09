@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="false" name="FSF" category="opl">
+            			
+            <ref name="mo.mod" type="model">
+			</ref>
+            			
+            <ref name="mo.ops" type="setting">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="soft logic" category="opl">
+            			
+            <ref name="mo2.mod" type="model">
+			</ref>
+            			
+            <ref name="mo2.ops" type="setting">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="mucrew" category="opl">
+            			
+            <ref name="mo3.mod" type="model">
+			</ref>
+            			
+            <ref name="mo3.ops" type="setting">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="interrupt" category="opl">
+            			
+            <ref name="mo4.mod" type="model">
+			</ref>
+            			
+            <ref name="mo4.ops" type="setting">
+			</ref>
+            		
+        </config>
+        		
+        <config default="true" name="main" category="opl">
+            			
+            <ref name="main.mod" type="model">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>

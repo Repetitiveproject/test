@@ -1,0 +1,176 @@
+Instance	Strategy	Status	Objective	Time(s)
+instance1.dat	FSF策略	Success	37	60.029999971
+instance1.dat	split-overlap策略	Success	57	1.330000162
+instance1.dat	soft logic-interruption-crew策略	Success	57	13.309999943
+instance2.dat	FSF策略	Success	44	60
+instance2.dat	split-overlap策略	Success	95	60.00999999
+instance2.dat	soft logic-interruption-crew策略	Success	62	1.809999943
+instance3.dat	FSF策略	Success	40	60.029999971
+instance3.dat	split-overlap策略	Success	66	7.920000076
+instance3.dat	soft logic-interruption-crew策略	Success	59	1.309999943
+instance4.dat	FSF策略	Success	53	60.03000021
+instance4.dat	split-overlap策略	Success	75	6.24000001
+instance4.dat	soft logic-interruption-crew策略	Success	75	2.049999952
+instance5.dat	FSF策略	Success	40	60.029999971
+instance5.dat	split-overlap策略	Success	63	60.069999933
+instance5.dat	soft logic-interruption-crew策略	Success	47	3.810000181
+instance6.dat	FSF策略	Success	46	60.059999943
+instance6.dat	split-overlap策略	Success	68	22.920000076
+instance6.dat	soft logic-interruption-crew策略	Success	58	6.869999886
+instance7.dat	FSF策略	Success	47	60.039999962
+instance7.dat	split-overlap策略	Success	83	20.199999809
+instance7.dat	soft logic-interruption-crew策略	Success	80	11
+instance8.dat	FSF策略	Success	43	60.020000219
+instance8.dat	split-overlap策略	Success	73	5.129999876
+instance8.dat	soft logic-interruption-crew策略	Success	73	7.470000029
+instance9.dat	FSF策略	Success	40	60.029999971
+instance9.dat	split-overlap策略	Success	63	8.769999981
+instance9.dat	soft logic-interruption-crew策略	Success	62	6.5400002
+instance10.dat	FSF策略	Success	40	60.039999962
+instance10.dat	split-overlap策略	Success	61	18.349999905
+instance10.dat	soft logic-interruption-crew策略	Success	57	12.269999981
+instance11.dat	FSF策略	Success	37	60.050000191
+instance11.dat	split-overlap策略	Success	59	27.069999933
+instance11.dat	soft logic-interruption-crew策略	Success	54	7.940000057
+instance12.dat	FSF策略	Success	44	60.039999962
+instance12.dat	split-overlap策略	Success	66	4.529999971
+instance12.dat	soft logic-interruption-crew策略	Success	66	6.569999933
+instance13.dat	FSF策略	Success	42	60
+instance13.dat	split-overlap策略	Success	63	9.549999952
+instance13.dat	soft logic-interruption-crew策略	Success	63	7.220000029
+instance14.dat	FSF策略	Success	39	60.029999971
+instance14.dat	split-overlap策略	Success	60	3.25
+instance14.dat	soft logic-interruption-crew策略	Success	60	2.769999981
+instance15.dat	FSF策略	Success	46	60.00999999
+instance15.dat	split-overlap策略	Success	77	17.680000067
+instance15.dat	soft logic-interruption-crew策略	Success	71	3.460000038
+instance16.dat	FSF策略	Success	45	60.049999952
+instance16.dat	split-overlap策略	Success	65	2.670000076
+instance16.dat	soft logic-interruption-crew策略	Success	65	5.220000029
+instance17.dat	FSF策略	Success	41	60.019999981
+instance17.dat	split-overlap策略	Success	65	7.589999914
+instance17.dat	soft logic-interruption-crew策略	Success	63	1.950000048
+instance18.dat	FSF策略	Success	44	60.019999981
+instance18.dat	split-overlap策略	Success	70	1.910000086
+instance18.dat	soft logic-interruption-crew策略	Success	70	5.440000057
+instance19.dat	FSF策略	Success	42	60.049999952
+instance19.dat	split-overlap策略	Success	69	1.49000001
+instance19.dat	soft logic-interruption-crew策略	Success	69	2.700000048
+instance20.dat	FSF策略	Success	40	60.039999962
+instance20.dat	split-overlap策略	Success	1935	60.00999999
+instance20.dat	soft logic-interruption-crew策略	Success	61	6.880000114
+instance21.dat	FSF策略	Success	55	60.039999962
+instance21.dat	split-overlap策略	Success	101	26.299999952
+instance21.dat	soft logic-interruption-crew策略	Success	92	3.100000143
+instance22.dat	FSF策略	Success	39	60.039999962
+instance22.dat	split-overlap策略	Success	62	5.860000134
+instance22.dat	soft logic-interruption-crew策略	Success	57	5.399999857
+instance23.dat	FSF策略	Success	50	60.029999971
+instance23.dat	split-overlap策略	Success	83	3.200000048
+instance23.dat	soft logic-interruption-crew策略	Success	77	2.49000001
+instance24.dat	FSF策略	Success	71	60.029999971
+instance24.dat	split-overlap策略	Success	118	5.849999905
+instance24.dat	soft logic-interruption-crew策略	Success	118	4.960000038
+instance25.dat	FSF策略	Success	42	60.039999962
+instance25.dat	split-overlap策略	Success	66	8.069999933
+instance25.dat	soft logic-interruption-crew策略	Success	66	2.550000191
+instance26.dat	FSF策略	Success	48	38.190000057
+instance26.dat	split-overlap策略	Success	73	6.579999924
+instance26.dat	soft logic-interruption-crew策略	Success	73	2.670000076
+instance27.dat	FSF策略	Success	40	20.019999981
+instance27.dat	split-overlap策略	Success	68	5.200000048
+instance27.dat	soft logic-interruption-crew策略	Success	68	6.419999838
+instance28.dat	FSF策略	Success	49	39.300000191
+instance28.dat	split-overlap策略	Success	74	3.329999924
+instance28.dat	soft logic-interruption-crew策略	Success	74	4.599999905
+instance29.dat	FSF策略	Success	51	60.029999971
+instance29.dat	split-overlap策略	Success	86	7.619999886
+instance29.dat	soft logic-interruption-crew策略	Success	80	2.200000048
+instance30.dat	FSF策略	Success	49	32.350000143
+instance30.dat	split-overlap策略	Success	75	20.419999838
+instance30.dat	soft logic-interruption-crew策略	Success	75	3.180000067
+instance31.dat	FSF策略	Success	42	60.049999952
+instance31.dat	split-overlap策略	Success	69	2.830000162
+instance31.dat	soft logic-interruption-crew策略	Success	69	8.819999933
+instance32.dat	FSF策略	Success	49	60.00999999
+instance32.dat	split-overlap策略	Success	80	4.180000067
+instance32.dat	soft logic-interruption-crew策略	Success	80	39.339999914
+instance33.dat	FSF策略	Success	40	60.020000219
+instance33.dat	split-overlap策略	Success	65	40.839999914
+instance33.dat	soft logic-interruption-crew策略	Success	65	1.859999895
+instance34.dat	FSF策略	Success	47	60.00999999
+instance34.dat	split-overlap策略	Success	82	22.859999895
+instance34.dat	soft logic-interruption-crew策略	Success	77	2.170000076
+instance35.dat	FSF策略	Success	45	60.049999952
+instance35.dat	split-overlap策略	Success	90	57.150000095
+instance35.dat	soft logic-interruption-crew策略	Success	79	2.210000038
+instance36.dat	FSF策略	Success	49	60.029999971
+instance36.dat	split-overlap策略	Success	69	34.529999971
+instance36.dat	soft logic-interruption-crew策略	Success	65	8.350000143
+instance37.dat	FSF策略	Success	44	60.029999971
+instance37.dat	split-overlap策略	Success	74	2.420000076
+instance37.dat	soft logic-interruption-crew策略	Success	74	6.019999981
+instance38.dat	FSF策略	Success	48	60.039999962
+instance38.dat	split-overlap策略	Success	83	11.319999933
+instance38.dat	soft logic-interruption-crew策略	Success	75	2.779999971
+instance39.dat	FSF策略	Success	35	60.03000021
+instance39.dat	split-overlap策略	Success	56	18.699999809
+instance39.dat	soft logic-interruption-crew策略	Success	56	5.789999962
+instance40.dat	FSF策略	Success	40	60.029999971
+instance40.dat	split-overlap策略	Success	72	24.420000076
+instance40.dat	soft logic-interruption-crew策略	Success	68	2.549999952
+instance41.dat	FSF策略	Success	46	60
+instance41.dat	split-overlap策略	Success	61	11.410000086
+instance41.dat	soft logic-interruption-crew策略	Success	61	26.629999876
+instance42.dat	FSF策略	Success	65	60.050000191
+instance42.dat	split-overlap策略	Success	78	60.029999971
+instance42.dat	soft logic-interruption-crew策略	Success	78	60.00999999
+instance43.dat	FSF策略	Success	68	60.00999999
+instance43.dat	split-overlap策略	Success	78	3.049999952
+instance43.dat	soft logic-interruption-crew策略	Success	74	5.350000143
+instance44.dat	FSF策略	Success	63	60.019999981
+instance44.dat	split-overlap策略	Success	68	60.059999943
+instance44.dat	soft logic-interruption-crew策略	Success	68	60.029999971
+instance45.dat	FSF策略	Success	77	60.03000021
+instance45.dat	split-overlap策略	Success	87	15.230000019
+instance45.dat	soft logic-interruption-crew策略	Success	79	60.00999999
+instance46.dat	FSF策略	Success	54	60.049999952
+instance46.dat	split-overlap策略	Success	79	18.230000019
+instance46.dat	soft logic-interruption-crew策略	Success	67	3.779999971
+instance47.dat	FSF策略	Success	79	60.019999981
+instance47.dat	split-overlap策略	Success	79	60.060000181
+instance47.dat	soft logic-interruption-crew策略	Success	79	60.00999999
+instance48.dat	FSF策略	Success	66	60.039999962
+instance48.dat	split-overlap策略	Success	73	2.349999905
+instance48.dat	soft logic-interruption-crew策略	Success	73	37.080000162
+instance49.dat	FSF策略	Success	46	60.029999971
+instance49.dat	split-overlap策略	Success	58	4.569999933
+instance49.dat	soft logic-interruption-crew策略	Success	58	6.74000001
+instance50.dat	FSF策略	Success	66	60.059999943
+instance50.dat	split-overlap策略	Success	76	3.079999924
+instance50.dat	soft logic-interruption-crew策略	Success	76	14.840000153
+instance51.dat	FSF策略	Success	55	60.039999962
+instance51.dat	split-overlap策略	Success	80	46.329999924
+instance51.dat	soft logic-interruption-crew策略	Success	74	35.289999962
+instance52.dat	FSF策略	Success	46	60.069999933
+instance52.dat	split-overlap策略	Success	73	28.880000114
+instance52.dat	soft logic-interruption-crew策略	Success	70	20.549999952
+instance53.dat	FSF策略	Success	41	60.00999999
+instance53.dat	split-overlap策略	Success	70	38.21999979
+instance53.dat	soft logic-interruption-crew策略	Success	63	29.160000086
+instance54.dat	FSF策略	Success	44	60.079999924
+instance54.dat	split-overlap策略	Success	61	33.029999971
+instance54.dat	soft logic-interruption-crew策略	Success	55	10.519999981
+instance55.dat	FSF策略	Success	66	60.069999933
+instance55.dat	split-overlap策略	Success	77	3.130000114
+instance55.dat	soft logic-interruption-crew策略	Success	77	7.140000105
+instance56.dat	FSF策略	Success	33	60.059999943
+instance56.dat	split-overlap策略	Success	51	12.25999999
+instance56.dat	soft logic-interruption-crew策略	Success	51	7.900000095
+instance57.dat	FSF策略	Success	43	60.079999924
+instance57.dat	split-overlap策略	Success	123	60.210000038
+instance57.dat	soft logic-interruption-crew策略	Success	61	9.889999866
+instance58.dat	FSF策略	Success	41	60.100000143
+instance58.dat	split-overlap策略	Success	59	6.519999981
+instance58.dat	soft logic-interruption-crew策略	Success	59	44.75999999
+instance59.dat	FSF策略	Success	46	60.100000143
